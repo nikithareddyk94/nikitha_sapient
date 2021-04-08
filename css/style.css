@@ -53,6 +53,7 @@ hr{
     text-align: left;
     margin-bottom: 0px;
     width: 100%;
+    font-weight: bold;
 }
 .inside_details span {
     color: #668cff;
